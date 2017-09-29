@@ -70,8 +70,10 @@ The binaries on different platforms are also provided.
 To run the binaries, specify the location of the *libmobvoisdk.so* to *LD_LIBRARY_PATH*.
 The following shows how to run the x86_64 version *asr*:
 
-> cd samples/bin
-> LD_LIBRARY_PATH=../../lib/x86_64 ./robot online
+<pre>
+cd samples/bin
+LD_LIBRARY_PATH=../../lib/x86_64 ./robot online
+</pre>
 
 ## Trouble shooting
 
