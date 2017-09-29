@@ -40,7 +40,7 @@ The SDK is validated in the following platforms:
 ## File hierarchy
 
 | File/Directoy  | Purpose                                                           |
-|:--------------:|:-----------------------------------------------------------------:|
+|:---------------|:------------------------------------------------------------------|
 | include        | Contains the SDK header file (speech_sdk.h)                       |
 | lib            | Contains the library (libmobvoisdk.so) for different platforms    |
 | .mobvoi        | Contains the configurations for the SDK. It is a hidden directory.|
@@ -60,7 +60,7 @@ The SDK is validated in the following platforms:
 Several sample programs are provided in the samples/ directory:
 
 | Program        | Purpose                                                         |
-|---------------:|----------------------------------------------------------------:|
+|:---------------|:----------------------------------------------------------------|
 | asr            | Shows how to do hotword wakeup and speech recognition           |
 | mix_tts        | Shows how to make use of the TTS function                       |
 | multi_keywords | Shows how to make use of the multi-keywords activation function |
